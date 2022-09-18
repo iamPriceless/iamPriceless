@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamPriceless
 - 👀 I’m interested in frontend, backend and database
-- 🌱 I’m currently learning django, react, php, native and nodejs
-- 💞️ I’m looking to collaborate on frontend and django projects
+- 🌱 I’m currently learning react, mongodb, react-native, ux design and nodejs
+- 💞️ I’m looking to collaborate on frontend and backend projects
 - 📫 How to reach me Whatsapp +2347065111918, LinkedIn: 
 https://www.linkedin.com/in/anya-emmanuel-thompson-4799b5166
 <!---
